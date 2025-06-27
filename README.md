@@ -91,3 +91,18 @@ His speaking topics primarily focus on "Automation and Future of Work" and AI-re
 
 In recent years, Ambuj has collaborated with CXOs to drive business success by developing mid and long-term product strategies, leveraging cutting-edge engineering innovations to achieve key performance indicators while seamlessly managing engineering and research organizations. His diverse experience spans industries from banking to telecoms to Media \& Content Platforms.
 
+
+
+External links:
+
+[^1]: https://uk.linkedin.com/in/ambujagrawal
+
+[^2]: https://www.thenetwork.com/profile/ambuj-agrawal-94a99823
+
+[^3]: https://bpbonline.com/products/llm-development-and-ai-ethics
+
+[^4]: https://www.amazon.co.uk/Ambuj-Agrawal/e/B0B96QNH9S/ref=zg_bsnr_404260_bl_sccl_8/000-0000000-0000000
+
+[^5]: https://helion.pl/ksiazki/llm-development-and-ai-ethics-ambuj-agrawal,e_4ddy.htm
+
+
